@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **Embedded Systems Projects**
 
-- 📫 How to reach me **mohamed.ismailxt@gmail.com**
+- 📫 How to reach me **ismailmohamedm834@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
